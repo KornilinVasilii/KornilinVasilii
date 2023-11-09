@@ -35,9 +35,7 @@ I am a Front End Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=KornilinVasilii&theme=dark" alt="GitHub Streak" /></a>
-
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KornilinVasilii)](https://git.io/streak-stats)
 
 
 
