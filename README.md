@@ -12,7 +12,7 @@ I am a Front End Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 📕 I read technical literature.
 
-- 🧠 In my free time, I solve problems on Codewars.
+- 🧠 In my free time, I solve kata on Codewars.
 
 - 📩  How to reach me: [![Telegramm Badge](https://img.shields.io/badge/-kornilih-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Kornilih)
 
