@@ -35,7 +35,7 @@ I am a Front End Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=KornilinVasilii)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?userName=KornilinVasilii)](https://git.io/streak-stats)
 
 
 
