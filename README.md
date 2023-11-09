@@ -14,7 +14,7 @@ I am a Front End Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on Codewars and read tech articles.
 
-- :mailbox: How to reach me: [![Telegramm Badge](https://img.shields.io/badge/-kornilih-blue?style=flat&logo=Telegram&logoColor=white)](@kornilih)
+- :mailbox: How to reach me: [![Telegramm Badge](https://img.shields.io/badge/-kornilih-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Kornilih)
 
 ---
 
