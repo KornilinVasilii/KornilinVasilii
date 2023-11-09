@@ -4,6 +4,20 @@
 
 ---
 
+### :man_technologist: About Me :
+
+I am a Front End Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on Codewars and read tech articles.
+
+- :mailbox: How to reach me: [![Telegramm Badge](https://img.shields.io/badge/-kornilih-blue?style=flat&logo=Telegram&logoColor=white)](your-linkedin-url)
+
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -16,3 +30,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCss" alt="TailwindCss" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
 </div>
+
