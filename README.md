@@ -8,13 +8,13 @@
 
 I am a Front End Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- 🧩 I develop user interfaces using modern web technologies.
 
-- :seedling: Exploring Technical Content Writing.
+- 📕 I read technical literature.
 
-- :zap: In my free time, I solve problems on Codewars and read tech articles.
+- 🧠 In my free time, I solve problems on Codewars.
 
-- :mailbox: How to reach me: [![Telegramm Badge](https://img.shields.io/badge/-kornilih-blue?style=flat&logo=Telegram&logoColor=whitetarget="blank")](https://t.me/Kornilih)
+- 📩  How to reach me: [![Telegramm Badge](https://img.shields.io/badge/-kornilih-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Kornilih)
 
 ---
 
